@@ -318,11 +318,6 @@ The authors assume no liability for misuse of this tool.
 **Alex Milla**
 - Websites: [alexmilla.dev](https://alexmilla.dev)
 
-## Support
-
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/alex-milla/ThreatScope/issues)
-- **Discussions**: Join the community in [GitHub Discussions](https://github.com/alex-milla/ThreatScope/discussions)
-
 ---
 
 **Made with ❤️ by security professionals, for security professionals**
