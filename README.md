@@ -2,6 +2,15 @@
 
 Multi-source threat intelligence analyzer for IPs, domains, and URLs.
 
+# ThreatScope
+
+[![Latest Release](https://img.shields.io/github/v/release/alex-milla/ThreatScope)](https://github.com/alex-milla/ThreatScope/releases/latest)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)](https://github.com/PowerShell/PowerShell)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+Multi-source threat intelligence analyzer for IPs, domains, and URLs.
+
+
 ## Description
 
 ThreatScope is a PowerShell tool that queries multiple threat intelligence providers to analyze the reputation of IP addresses, domains, and URLs. Designed for SOC analysts and security professionals who need quick, comprehensive threat assessments.
